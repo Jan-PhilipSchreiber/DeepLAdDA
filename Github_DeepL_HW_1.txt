@@ -1,1 +1,1 @@
-https://github.com/Jan-PhilipSchreiber/DeepL-AdDA/tree/master/0DeepL/LecANN_Homework
+https://github.com/Jan-PhilipSchreiber/DeepLAdDA/tree/main/0DeepL/LecANN_Homework
