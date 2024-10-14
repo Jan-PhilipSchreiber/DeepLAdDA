@@ -15,3 +15,4 @@ jupyter_bokeh==4.0.5
 phik==0.12.4
 shap==0.46.0
 mlxtend==0.23.1
+imbalanced-learn==0.12.4
