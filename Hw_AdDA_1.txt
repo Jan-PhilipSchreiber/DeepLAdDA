@@ -1,0 +1,3 @@
+https://github.com/Jan-PhilipSchreiber/DeepLAdDA/blob/main/2AdDA/LectureHomework/report/1.1regression_hw.ipynb
+
+https://github.com/Jan-PhilipSchreiber/DeepLAdDA/blob/main/2AdDA/LectureHomework/report/1.2classification_hw.ipynb
