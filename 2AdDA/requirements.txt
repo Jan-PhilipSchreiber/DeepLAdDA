@@ -16,3 +16,5 @@ phik==0.12.4
 shap==0.46.0
 mlxtend==0.23.1
 imbalanced-learn==0.12.4
+tensorflow==2.15.0
+ctgan==0.10.2
